@@ -10,9 +10,9 @@
 
 - Winning and Losing Conditions: The game will determine when the player has won by correctly guessing the word or phrase and when they have lost by allowing the hangman to be fully drawn. It will then display an appropriate message to the player.
 
-** Programming Language**: Python
-** Data Storage**: Text files or lists for word database
-** Game Logic**: Python functions and data structures
+**Programming Language**: Python
+**Data Storage**: Text files or lists for word database
+**Game Logic**: Python functions and data structures
 
 ### Project Goals:
 The primary goal of the Hangman Game project is to create an engaging and functional implementation of the classic word-guessing game. It aims to challenge players' word recognition and deduction skills while providing an enjoyable gaming experience. Additionally, the project can serve as a valuable exercise for those learning Python programming, as it involves working with strings, loops, conditional statements, and user input.
